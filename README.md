@@ -1,3 +1,7 @@
+> **This is a fork of [xlenore/psx-covers](https://github.com/xlenore/psx-covers).**
+> Upstream is the canonical collection and stays the source of the raw URLs below.
+> Changes made here are not automatically upstreamed.
+
 *⭐**Star this repo if it was useful to you**⭐*
 
 - [Covers Stats](https://github.com/xlenore/psx-covers#covers-stats "Covers Stats")
