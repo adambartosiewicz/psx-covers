@@ -48,7 +48,6 @@ The images are the product. The Python files in `tools/` are maintenance scripts
 ### Git
 - Commit subjects are lowercase imperative and name the serial: `add SLUS-00401 3D cover`, `add SLUS-00069, update SLUS-00055`.
 - Work happens on a branch named after the serial (`3D-SLPM-87056`, `SLUS-00055-SLUS-00069`) and merges through a pull request.
-- One cover or one small related set per commit. This repository is reviewed by eye.
 - **Integrate by rebase.** `git rebase` onto the base branch, never `git merge`. The merge commits in the history come from upstream and are not the pattern to copy.
 
 ---
