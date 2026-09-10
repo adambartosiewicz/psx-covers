@@ -51,7 +51,7 @@ DuckStation has its own cover downloader, upgrade to version **0.1-5227** or hig
 | PTPX | 0/1 | 0.00% |
 | PUPX | 0/2 | 0.00% |
 | SCAJ | 1/2 | 50.00% |
-| SCED | 1/354 | 0.28% |
+| SCED | 50/354 | 14.12% |
 | SCES | 591/616 | 95.94% |
 | SCPM | 0/4 | 0.00% |
 | SCPS | 398/518 | 76.83% |
@@ -59,9 +59,9 @@ DuckStation has its own cover downloader, upgrade to version **0.1-5227** or hig
 | SCZS | 0/6 | 0.00% |
 | SIPS | 18/20 | 90.00% |
 | SLED | 1/236 | 0.42% |
-| SLES | 2261/2318 | 97.54% |
+| SLES | 2264/2318 | 97.67% |
 | SLKA | 3/3 | 100.00% |
-| SLPM | 1118/1787 | 62.56% |
+| SLPM | 1119/1787 | 62.62% |
 | SLPS | 3083/3662 | 84.19% |
 | SLSA | 0/3 | 0.00% |
 | SLUS | 1218/1316 | 92.55% |
