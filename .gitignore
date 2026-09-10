@@ -13,3 +13,6 @@ tools/2D_to_3D_cover/output/
 
 # macOS
 .DS_Store
+
+# Scratch directory — measurements and throwaway conversions, never committed
+.tmp/
